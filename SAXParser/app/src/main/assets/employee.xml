@@ -1,0 +1,17 @@
+<employees>
+    <employee>
+        <id>123</id>
+        <name>lakpa</name>
+        <desig>Manager</desig>
+    </employee>
+    <employee>
+        <id>456</id>
+        <name>sherpa</name>
+        <desig>Finance</desig>
+    </employee>
+    <employee>
+        <id>789</id>
+        <name>raju</name>
+        <desig>Helper</desig>
+    </employee>
+</employees>
